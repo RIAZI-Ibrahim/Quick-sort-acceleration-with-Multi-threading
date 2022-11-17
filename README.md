@@ -1,12 +1,12 @@
-#Compte-rendu du DM 3 : Accélération du tri rapide.
+# Accélération du tri rapide.
 
-##Réalisé par : 
+## Réalisé par : 
 <ul>
 <li>RIAZI Ibrahim (Group03).</li>
 <li>FELLOUSSI Idriss (Group03).</li>
 </ul>
 
-##les spécificités matérielles de la machine :
+## les spécificités matérielles de la machine :
 <ul>
 <li>Processeur : Intel(R) Core(TM) i7-4750HQ CPU @ 2.00GHZ.</li>
 <li>Coeurs : 4.</li>
@@ -14,7 +14,7 @@
 <li>Mémoire vive disponible : 8Go.</li>
 </ul>
 
-##La compilation et l’exécution du programme :
+## La compilation et l’exécution du programme :
     ~/Bureau/Tri_rapide$ javac *.java
     ~/Bureau/Tri_rapide$ java TriRapide
     Tableau initial :  -4876124 -7630470 -690774 -8061219... 6490912 -485424 -4033364 9765438
